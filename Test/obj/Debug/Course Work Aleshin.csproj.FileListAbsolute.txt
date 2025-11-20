@@ -1,0 +1,43 @@
+C:\Users\8987r\source\repos\Test\Test\obj\Debug\Course Work Aleshin.csproj.AssemblyReference.cache
+C:\Users\8987r\source\repos\Test\Test\obj\Debug\Course Work Aleshin.csproj.GenerateResource.cache
+C:\Users\8987r\source\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\8987r\source\repos\Test\Test\obj\Debug\Test.pdb
+C:\Users\8987r\source\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\8987r\source\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\8987r\source\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\8987r\source\repos\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\8987r\source\repos\Test\Test\obj\Debug\Course Work Aleshin.csproj.CoreCompileInputs.cache
+C:\Users\8987r\source\repos\Test\Test\obj\Debug\Course_Work_Aleshin_24VP2_01.Form1.resources
+C:\Users\8987r\source\repos\Курсач\Test\obj\Debug\Course Work Aleshin.csproj.AssemblyReference.cache
+C:\Users\8987r\source\repos\Курсач\Test\obj\Debug\Course_Work_Aleshin_24VP2_01.Form1.resources
+C:\Users\8987r\source\repos\Курсач\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\8987r\source\repos\Курсач\Test\obj\Debug\Course Work Aleshin.csproj.GenerateResource.cache
+C:\Users\8987r\source\repos\Курсач\Test\obj\Debug\Course Work Aleshin.csproj.CoreCompileInputs.cache
+C:\Users\8987r\source\repos\Курсач\Test\bin\Debug\CourseWork24VP2Aleshin.exe.config
+C:\Users\8987r\source\repos\Курсач\Test\bin\Debug\CourseWork24VP2Aleshin.exe
+C:\Users\8987r\source\repos\Курсач\Test\bin\Debug\CourseWork24VP2Aleshin.pdb
+C:\Users\8987r\source\repos\Курсач\Test\obj\Debug\CourseWork24VP2Aleshin.exe
+C:\Users\8987r\source\repos\Курсач\Test\obj\Debug\CourseWork24VP2Aleshin.pdb
+C:\Users\8987r\source\repos\Курсовая работа 2 курс\Test\bin\Debug\CourseWork24VP2Aleshin.exe.config
+C:\Users\8987r\source\repos\Курсовая работа 2 курс\Test\bin\Debug\CourseWork24VP2Aleshin.exe
+C:\Users\8987r\source\repos\Курсовая работа 2 курс\Test\bin\Debug\CourseWork24VP2Aleshin.pdb
+C:\Users\8987r\source\repos\Курсовая работа 2 курс\Test\obj\Debug\Course Work Aleshin.csproj.AssemblyReference.cache
+C:\Users\8987r\source\repos\Курсовая работа 2 курс\Test\obj\Debug\Course_Work_Aleshin_24VP2_01.Form1.resources
+C:\Users\8987r\source\repos\Курсовая работа 2 курс\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\8987r\source\repos\Курсовая работа 2 курс\Test\obj\Debug\Course Work Aleshin.csproj.GenerateResource.cache
+C:\Users\8987r\source\repos\Курсовая работа 2 курс\Test\obj\Debug\Course Work Aleshin.csproj.CoreCompileInputs.cache
+C:\Users\8987r\source\repos\Курсовая работа 2 курс\Test\obj\Debug\CourseWork24VP2Aleshin.exe
+C:\Users\8987r\source\repos\Курсовая работа 2 курс\Test\obj\Debug\CourseWork24VP2Aleshin.pdb
+C:\Users\8987r\source\repos\Курсовая работа 2 курс — копия\Test\bin\Debug\CourseWork24VP2Aleshin.exe.config
+C:\Users\8987r\source\repos\Курсовая работа 2 курс — копия\Test\bin\Debug\CourseWork24VP2Aleshin.exe
+C:\Users\8987r\source\repos\Курсовая работа 2 курс — копия\Test\bin\Debug\CourseWork24VP2Aleshin.pdb
+C:\Users\8987r\source\repos\Курсовая работа 2 курс — копия\Test\obj\Debug\Course Work Aleshin.csproj.AssemblyReference.cache
+C:\Users\8987r\source\repos\Курсовая работа 2 курс — копия\Test\obj\Debug\Course_Work_Aleshin_24VP2_01.Form1.resources
+C:\Users\8987r\source\repos\Курсовая работа 2 курс — копия\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\8987r\source\repos\Курсовая работа 2 курс — копия\Test\obj\Debug\Course Work Aleshin.csproj.GenerateResource.cache
+C:\Users\8987r\source\repos\Курсовая работа 2 курс — копия\Test\obj\Debug\Course Work Aleshin.csproj.CoreCompileInputs.cache
+C:\Users\8987r\source\repos\Курсовая работа 2 курс — копия\Test\obj\Debug\CourseWork24VP2Aleshin.exe
+C:\Users\8987r\source\repos\Курсовая работа 2 курс — копия\Test\obj\Debug\CourseWork24VP2Aleshin.pdb
+C:\Users\8987r\source\repos\Курсовая работа 2 курс — копия\Test\bin\Debug\EPPlus.Core.dll
+C:\Users\8987r\source\repos\Курсовая работа 2 курс — копия\Test\bin\Debug\EPPlus.Core.xml
+C:\Users\8987r\source\repos\Курсовая работа 2 курс — копия\Test\obj\Debug\Course W.07198D23.Up2Date
